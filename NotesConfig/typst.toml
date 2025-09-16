@@ -1,0 +1,13 @@
+[package]
+name = "notes-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["hehehaha"]
+license = "MIT"
+description = "Personal Notes template"
+repository = "https://github.com/teddy-bear-123/typstconfig.git"
+keywords = ["template", "notes", "academic"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
